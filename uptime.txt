@@ -1,1 +1,1 @@
- 14:05:02 up 46 min,  0 users,  load average: 1,18, 0,86, 0,44
+ 14:10:02 up 51 min,  0 users,  load average: 1,27, 1,13, 0,68
