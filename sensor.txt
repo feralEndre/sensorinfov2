@@ -9,5 +9,5 @@ temp1:        +66.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 14:10:01 up 10 days, 51 min,  0 users,  load average: 0,43, 0,33, 0,36
+ 14:15:01 up 10 days, 56 min,  0 users,  load average: 0,33, 0,28, 0,33
 Hide and Seek. LVL-2
