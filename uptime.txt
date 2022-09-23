@@ -1,1 +1,1 @@
- 16:20:02 up 16 days,  8:59,  0 users,  load average: 1,67, 1,62, 1,29
+ 16:25:02 up 16 days,  9:04,  0 users,  load average: 0,08, 0,88, 1,09
