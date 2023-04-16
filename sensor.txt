@@ -5,9 +5,9 @@ Core 1:       +52.0°C  (crit = +125.0°C)
 
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +68.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +67.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 18:30:01 up 8 days, 17:52,  0 users,  load average: 0,00, 0,02, 0,03
+ 18:35:01 up 8 days, 17:57,  0 users,  load average: 0,00, 0,01, 0,01
 Hide and Seek. LVL-2
