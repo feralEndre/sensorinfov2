@@ -1,6 +1,6 @@
 coretemp-isa-0000
 Adapter: ISA adapter
-Core 0:       +44.0°C  (crit = +125.0°C)
+Core 0:       +43.0°C  (crit = +125.0°C)
 Core 1:       +53.0°C  (crit = +125.0°C)
 
 nouveau-pci-0100
@@ -9,5 +9,5 @@ temp1:        +67.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 07:00:01 up 11 days,  6:22,  0 users,  load average: 0,31, 0,17, 0,06
+ 07:05:01 up 11 days,  6:27,  0 users,  load average: 0,15, 0,18, 0,09
 Hide and Seek. LVL-2
