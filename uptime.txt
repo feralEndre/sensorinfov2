@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  23:01:33 up  1:16,  1 user,  load average: 0.60, 0.54, 0.98
+=======
+ 00:00:01 up 4 days, 14:59,  0 users,  load average: 1,26, 0,32, 0,11
+>>>>>>> 55f7e5e06e77d62c3de1934da7fa16fdff38e0c0
