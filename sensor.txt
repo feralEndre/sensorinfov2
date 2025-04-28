@@ -1,13 +1,13 @@
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +51.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +52.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
 coretemp-isa-0000
 Adapter: ISA adapter
 Core 0:       +31.0°C  (crit = +125.0°C)
-Core 1:       +41.0°C  (crit = +125.0°C)
+Core 1:       +40.0°C  (crit = +125.0°C)
 
- 16:40:01 up 13 days,  2:39,  1 user,  load average: 0.89, 0.83, 0.81
+ 16:45:01 up 13 days,  2:44,  1 user,  load average: 0.78, 0.79, 0.81
 Hide and Seek. LVL-2
