@@ -1,1 +1,1 @@
- 15:50:01 up 50 days,  1:49,  1 user,  load average: 1.01, 1.06, 1.08
+ 15:55:01 up 50 days,  1:54,  1 user,  load average: 0.53, 0.88, 1.00
