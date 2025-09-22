@@ -1,1 +1,1 @@
- 20:30:01 up 160 days,  6:29,  1 user,  load average: 0.10, 0.03, 0.01
+ 20:35:01 up 160 days,  6:34,  1 user,  load average: 0.02, 0.02, 0.00
