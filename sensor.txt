@@ -9,5 +9,5 @@ Adapter: ISA adapter
 Core 0:       +25.0°C  (crit = +125.0°C)
 Core 1:       +35.0°C  (crit = +125.0°C)
 
- 19:20:01 up 212 days,  6:19,  1 user,  load average: 0.08, 0.06, 0.28
+ 19:25:01 up 212 days,  6:24,  1 user,  load average: 0.02, 0.03, 0.20
 Hide and Seek. LVL-2
