@@ -7,7 +7,7 @@ temp1:        +52.0°C  (high = +95.0°C, hyst =  +3.0°C)
 coretemp-isa-0000
 Adapter: ISA adapter
 Core 0:       +32.0°C  (crit = +125.0°C)
-Core 1:       +43.0°C  (crit = +125.0°C)
+Core 1:       +42.0°C  (crit = +125.0°C)
 
- 21:20:01 up 13 days,  1:53,  1 user,  load average: 1.37, 1.18, 1.11
+ 21:25:01 up 13 days,  1:58,  1 user,  load average: 1.21, 1.14, 1.10
 Hide and Seek. LVL-2
