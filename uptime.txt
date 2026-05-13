@@ -1,1 +1,1 @@
- 10:35:01 up 97 days, 20:45,  1 user,  load average: 1.06, 1.06, 0.75
+ 10:40:01 up 97 days, 20:50,  1 user,  load average: 0.89, 0.96, 0.80
